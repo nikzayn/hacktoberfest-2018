@@ -1069,7 +1069,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 ### Nikhil Vaidyar
 
 - I am a self-taught JS/ReactJS/React-Native/Full-Stack Developer.
-- I am very much passionate about cosmos and learning more new things related to .
+- I am very much passionate about cosmos and learning more new things related to space.
 - A Good PUBG and FIFA 18 player.
 - Loves to paint and try to make things happen.
 - [![github-alt][github-img]](https://github.com/nikzayn)
